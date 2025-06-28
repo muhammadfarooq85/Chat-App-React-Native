@@ -1,4 +1,4 @@
-import { Client, Account, ID } from 'appwrite';
+import { Client, Account, ID } from 'react-native-appwrite';
 
 const client = new Client();
 
